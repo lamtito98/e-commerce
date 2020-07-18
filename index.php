@@ -9,7 +9,7 @@ include 'header.php';
                         <h4 class="card-header bg-light"><i class="fa fa-map"></i>  Top Produits</h4>
                         <div class="row">
                             <?php
-                        
+                      
                         $result = top_produit();
                         while ($row = mysqli_fetch_array($result)): 
                         ?>
