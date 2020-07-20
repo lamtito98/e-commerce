@@ -6,9 +6,9 @@ include 'header.php';
 <section class="mb-4">
 
     <!--Section heading-->
-    <h1 class="h1-responsive font-weight-bold text-center my-4">Nous Contacter</h1>
+    <h1 class="h1-responsive font-weight-bold text-center my-4">Contact us</h1>
     <!--Section description-->
-    <p class="text-center w-responsive mx-auto mb-5">Avez vous des questions? N'hésitez pas à nous contacter directement. Notre équipe reviendra vers vous dans moins d'une heure pour vous aider.</p>
+    <p class="text-center w-responsive mx-auto mb-5">Do you have a question? Contact us and our team will be with you in a short time.</p>
 
     <div class="row">
 
@@ -87,7 +87,7 @@ include 'header.php';
                 </li>
 
                 <li><i class="fas fa-envelope mt-4 fa-2x"></i>
-                    <p>admin@admin.com</p>
+                    <p>lamsonestimond2@gmail.com</p>
                 </li>
             </ul>
         </div>

@@ -6,16 +6,16 @@ include 'header.php';
             <div class="card mt-3">
                 <div class="card">
                     <div class="card-body">
-                        <h4 class="card-header bg-light"><i class="fa fa-map"></i>  Top Produits</h4>
+                        <h4 class="card-header bg-light"><i class="fa fa-map"></i>  Top Products</h4>
                         <div class="row">
                             <?php
-                      
+                        
                         $result = top_produit();
                         while ($row = mysqli_fetch_array($result)): 
                         ?>
                        
                         <?php   endwhile ; ?>
-                        </div >
+                        </div>
                     </div>
                 </div>
             </div>
@@ -23,7 +23,7 @@ include 'header.php';
         <div class="col-md-9">
             <div class="card mt-3">
                 <div class="card-body">
-                    <h4 class="card-header bg-light"><i class="fa fa-map"></i>  Produits
+                    <h4 class="card-header bg-light"><i class="fa fa-map"></i>  Products
                     </h4>
 
                     <div class="row ">
